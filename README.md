@@ -53,7 +53,7 @@ I love solving problems, optimizing workflows, and turning ideas into production
 <p align="left">
 
 <!-- INSTAGRAM -->
-<a href="https://instagram.com/rfkhrmwnnn">
+<a href="https://instagram.com/rfkhrmwnnnn">
   <img height="36" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 
