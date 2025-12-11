@@ -1,18 +1,18 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=6C63FF&center=true&vCenter=true&width=700&lines=RIFKI+HERMAWAN+👋;Full-Stack+Developer;Crafting+Scalable+and+Modern+Web+Apps;Clean+Code+%7C+High+Performance+%7C+Great+UX;Always+Building,+Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3200&color=6C63FF&center=true&vCenter=true&width=750&lines=RIFKI+HERMAWAN+👋;Full-Stack+Developer;Building+Scalable+Modern+Web+Applications;Clean+Code+%7C+High+Performance+%7C+Great+UX;Crafting+Software+With+Purpose+🚀" />
 </p>
 
 ---
 
-## 🌟 About Me
-A full-stack engineer passionate about crafting clean, scalable, and high-impact digital products.  
-I love solving problems, optimizing workflows, and turning ideas into production-ready apps.
+## 🌟 About Me  
+A full-stack engineer dedicated to building clean, scalable, and high-impact digital products.  
+Driven by curiosity and a passion for continuous improvement, I turn complex problems into efficient solutions.
 
-- 🔍 Exploring: **AI integration, scalable backend systems, modern frontend UX**
-- ⚙️ Workstyle: *Think clearly → Build fast → Deliver value consistently*
-- 🚀 Goal: Creating digital experiences that feel effortless for users
-- 📫 Contact: **rifkihermawan836@gmail.com**
+- 🔍 Focus: **AI Integration, Scalable Backend Architecture, Modern Frontend Frameworks**  
+- ⚙️ Work Philosophy: *Clear thinking → Efficient execution → High-quality output*  
+- 🚀 Goal: Deliver intuitive, seamless digital experiences  
+- 📫 Email: **rifkihermawan836@gmail.com**
 
 ---
 
@@ -39,9 +39,9 @@ I love solving problems, optimizing workflows, and turning ideas into production
 
 ---
 
-## 🎯 Productivity Heatmap  
+## 📈 Productivity Heatmap  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfkhrmwnnn&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfkhrmwnnn&from=2021-01-01&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
@@ -49,12 +49,12 @@ I love solving problems, optimizing workflows, and turning ideas into production
 ## 🤝 Connect With Me  
 <p align="left">
 
-<!-- INSTAGRAM -->
+<!-- Instagram -->
 <a href="https://instagram.com/rfkhrmwnnnn">
   <img height="36" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 
-<!-- WHATSAPP -->
+<!-- WhatsApp -->
 <a href="https://wa.me/6283869785398" style="margin-left:14px;">
   <img height="36" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 </a>
@@ -64,4 +64,4 @@ I love solving problems, optimizing workflows, and turning ideas into production
 ---
 
 ## ✨ Fun Fact  
-> "Debugging is 90% stress, 10% victory — but that 10% feels like winning a boss fight." ⚔️😄
+> “Debugging feels like detective work… except you're also the one who committed the crime.” 🕵️‍♂️💻⚔️  
