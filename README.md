@@ -13,7 +13,7 @@ When I’m not coding, I’m probably debugging kehidupan. 😎
 - 🔭 Currently exploring: **AI-powered apps & high-scale architectures**
 - ⚡ Core vibes: *Strong engineering mindset meets Gen Z execution speed*
 - 🎯 Mission: Build tools that solve real problems without over-engineering
-- 📫 Contact: **your-email@example.com**
+- 📫 Contact: **rifkihermawan836@gmail.com**
 
 ---
 
@@ -43,17 +43,6 @@ When I’m not coding, I’m probably debugging kehidupan. 😎
 
 ---
 
-## 📊 GitHub Insights  
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rfkhrmwnnn&show_icons=true&theme=calm&hide_border=true&count_private=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfkhrmwnnn&layout=compact&theme=calm&hide_border=true" />
-
-</div>
-
----
 
 ## 🎯 Productivity Heatmap  
 <p align="center">
