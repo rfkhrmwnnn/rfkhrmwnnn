@@ -1,126 +1,128 @@
-<!-- CINEMATIC HERO BANNER -->
+<!-- GLASSMORPHISM HERO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=2500&color=6C63FF&center=true&vCenter=true&width=900&lines=RIFKI+HERMAWAN+👋;Full-Stack+Software+Engineer;Product+Focused+%7C+Clean+Code+Mindset;Crafting+Future-Ready+Digital+Experiences+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=33&duration=2300&color=8B5CF6&center=true&vCenter=true&width=900&lines=RIFKI+HERMAWAN+🚀;Full-Stack+Developer+%7C+Software+Engineer;Modern+Web+Architecture+%26+Product+Engineering;Clean+Code+%7C+High+Performance+%7C+Great+UX" />
 </p>
 
 ---
 
 # 🌟 About Me  
-I'm **Rifki**, a full-stack engineer who builds scalable, minimalistic, and modern digital products.  
-I believe in **clarity, simplicity, performance, and craftsmanship** in every line of code.
+Hi, I'm **Rifki**, a full-stack engineer passionate about building scalable systems, delightful UI/UX, and production-grade digital experiences.
 
-### 🧭 What I Do  
-- Architect scalable frontends & backend systems  
-- Build modern interfaces with strong UX direction  
-- Develop optimized APIs for real-world applications  
-- Transform raw ideas into polished digital products  
-- Work with design-thinking mindset  
+I combine **engineering discipline**, **design sense**, and **product thinking** to create meaningful software.
+
+### 🧭 My Engineering Principles
+- 🌐 Clean architecture over complexity  
+- ⚡ Fast iteration, reliable delivery  
+- 🎨 UI should feel effortless  
+- 🧠 Build for maintainability  
+- 🚀 Products > Just Code  
 
 📩 **Email:** *rifkihermawan836@gmail.com*
 
 ---
 
-# 🧠 Tech Stack — My Engineering Toolkit
+# 🧠 Tech Stack — Full Arsenal
 
 ## 🎨 **Frontend Development**
 <div>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
 </div>
 
 ---
 
 ## ⚙️ **Backend Development**
 <div>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
 ---
 
 ## 🗄 **Databases**
 <div>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 </div>
 
 ---
 
-## 🎨 **Design & Creative Tools**
+## 🎨 **Design Tools**
 <div>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
 </div>
 
 ---
 
-## 🚀 **Deployment & Tools**
+## 🚀 **Deployment & DevOps Tools**
 <div>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 </div>
 
 ---
 
-# 📦 Featured Projects — Portfolio Collection  
-> *Clean, polished, and user-centric.*
+# 📦 Featured Projects — Portfolio Gallery
+
+> *Now with clean cards ready for future thumbnails.*
 
 ---
 
-### 🎯 **1. Smart Attendance System (QR Code Based)**  
-A production-grade attendance platform with QR scanning, admin dashboards, and analytics.  
-**Tech:** Node.js, PostgreSQL, React, JWT Auth  
-
-🔗 *(Repo Coming Soon or Add Link)*
-
----
-
-### 🎯 **2. AI Image Enhancer Web App**  
-AI-powered image restoration with cinematic UI.  
-**Tech:** React + Tailwind + AI API  
+### ⭐ **Smart Attendance System (QR Based)**  
+🧩 Role-based system with admin dashboard  
+✨ Export, analytics, real-time validation  
+🚀 Tech: Node.js, PostgreSQL, JWT, React  
 
 ---
 
-### 🎯 **3. Multi-Platform Downloader Hub**  
-Download YouTube, Instagram, and Spotify in one hub.  
-**Tech:** Vanilla JS, Tailwind, REST API integrations  
+### ⭐ **AI Image Enhancer Web App (Remini-Style)**  
+🎨 Clean responsive UI + AI image upscaling  
+⚡ Fast loading, user-friendly design  
+🧠 Tech: React, Tailwind, AI API  
 
 ---
 
-### 🎯 **4. Spotify MP3 Extractor**  
-Simple but powerful tool for MP3 extraction via API.  
-**Tech:** Node.js + External API  
+### ⭐ **Multi-Platform Downloader Hub**  
+📥 Download from YouTube, Instagram, Spotify  
+💨 Optimized for speed & simplicity  
+🛠 Tech: JavaScript, Tailwind, REST API  
 
 ---
 
-# 🏆 Engineering Achievements (Portfolio V4 Enhancements)
-- 🚀 Built multiple production-ready full-stack systems  
-- 🧠 Strong understanding of UI/UX and digital product flow  
-- 💾 Experience in SQL & NoSQL architectures  
-- 🎨 Able to design + build (end-to-end product builder)  
-- ⚡ Writes scalable and maintainable codebases  
-- 📈 Contributes actively to multiple open-source repos  
+### ⭐ **Spotify MP3 Extractor**  
+🎶 Extract & convert tracks easily  
+🔧 Tech: Node.js, External API  
 
 ---
 
-# 💬 What People Say (Mock Testimonials)
+# 🏅 Achievements & Highlights  
+🏆 Built multiple production-grade apps  
+🎨 Strong UI/UX intuition with engineering execution  
+⚙️ Skilled in SQL, NoSQL & API systems  
+🧪 Passion for clean, maintainable code  
+🚀 Fast learner, product-focused builder  
 
-> **“Clean code, fast delivery, zero drama.”**  
-> — *Startup CTO*
+---
 
-> **“Design sense + engineering mind = rare combo.”**  
-> — *Product Manager*
+# 🗨️ Testimonials (Mock, Portfolio-Style)
 
-> **“If it’s broken, he’ll fix it. If it’s slow, he’ll optimize it.”**  
-> — *Senior Engineer*
+> **“He codes like he knows the future.”**  
+> — Startup CTO  
+
+> **“Rare mix of frontend taste and backend discipline.”**  
+> — Senior Engineer  
+
+> **“If you need it, he builds it. If it’s slow, he optimizes it.”**  
+> — Product Owner  
 
 ---
 
@@ -134,12 +136,10 @@ Simple but powerful tool for MP3 extraction via API.
 # 🌐 Connect With Me  
 <p align="left">
 
-<!-- Instagram -->
 <a href="https://instagram.com/rfkhrmwnnnn">
   <img height="40" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
 
-<!-- WhatsApp -->
 <a href="https://wa.me/6283869785398" style="margin-left:18px;">
   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
 </a>
@@ -149,11 +149,10 @@ Simple but powerful tool for MP3 extraction via API.
 ---
 
 ## ✨ Fun Fact  
-> “Good developers write code.  
-> **Great developers debug without crying.”** 😎
+> “Deleting 100 lines is more satisfying than writing 1,000.” 😎
 
 ---
 
 <p align="center">
-  <sub>Thanks for visiting — feel free to explore my work below 👇</sub>
+  <sub>Thanks for visiting — feel free to explore my work 🚀</sub>
 </p>
