@@ -1,18 +1,17 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=6C63FF&center=true&vCenter=true&width=650&lines=Hi+I'm+RIFKI+👋;Full-Stack+Developer+%7C+Crafting+Digital+Experiences;Clean+Code+Advocate+%7C+API+Wizard;Let's+Build+Something+Great+Together+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=6C63FF&center=true&vCenter=true&width=700&lines=RIFKI+HERMAWAN+👋;Full-Stack+Developer;Crafting+Scalable+and+Modern+Web+Apps;Clean+Code+%7C+High+Performance+%7C+Great+UX;Always+Building,+Always+Learning+🚀" />
 </p>
 
 ---
 
 ## 🌟 About Me
-I'm a full-stack developer who loves shipping clean, scalable, and user-centric digital products.  
-My workflow? **Think → Build → Iterate → Ship fast but stable.**  
-When I’m not coding, I’m probably debugging kehidupan. 😎
+A full-stack engineer passionate about crafting clean, scalable, and high-impact digital products.  
+I love solving problems, optimizing workflows, and turning ideas into production-ready apps.
 
-- 🔭 Currently exploring: **AI-powered apps & high-scale architectures**
-- ⚡ Core vibes: *Strong engineering mindset meets Gen Z execution speed*
-- 🎯 Mission: Build tools that solve real problems without over-engineering
+- 🔍 Exploring: **AI integration, scalable backend systems, modern frontend UX**
+- ⚙️ Workstyle: *Think clearly → Build fast → Deliver value consistently*
+- 🚀 Goal: Creating digital experiences that feel effortless for users
 - 📫 Contact: **rifkihermawan836@gmail.com**
 
 ---
@@ -43,7 +42,6 @@ When I’m not coding, I’m probably debugging kehidupan. 😎
 
 ---
 
-
 ## 🎯 Productivity Heatmap  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfkhrmwnnn&theme=react-dark&hide_border=true&area=true" />
@@ -53,12 +51,20 @@ When I’m not coding, I’m probably debugging kehidupan. 😎
 
 ## 🤝 Connect With Me  
 <p align="left">
-  <a href="#"><img height="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-  <a href="#"><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png"></a>
+
+<!-- INSTAGRAM -->
+<a href="https://instagram.com/rfkhrmwnnn">
+  <img height="36" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+</a>
+
+<!-- WHATSAPP -->
+<a href="https://wa.me/6283869785398" style="margin-left:14px;">
+  <img height="36" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+</a>
+
 </p>
 
 ---
 
 ## ✨ Fun Fact  
-> "Debugging is like being a detective in a crime movie where *you* are also the murderer." 🔍😄
-
+> "Debugging is 90% stress, 10% victory — but that 10% feels like winning a boss fight." ⚔️😄
