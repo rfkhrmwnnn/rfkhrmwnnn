@@ -1,80 +1,59 @@
 # Hi, I'm rfkhrmwn 👋
 **Full-Stack Developer | Web Systems & Automation**
 
-I build **scalable web applications**, **API-driven systems**, and **modern frontend experiences** with a strong focus on performance, maintainability, and clean architecture.  
-I prioritize **real-world usability**, not demo-grade projects.
+I design and build scalable web applications with a strong focus on clean architecture, performance, and long-term maintainability.  
+My work prioritizes production-ready systems over experimental or demo-level projects.
 
 ---
 
-## 🧠 Core Expertise
+## 🧠 Technical Focus
 
-### Frontend
+### Frontend Development
 - React, Next.js, Vue, Nuxt
-- TypeScript, JavaScript (ES6+)
+- TypeScript & modern JavaScript (ES6+)
 - Tailwind CSS, Bootstrap
-- UI implementation from Figma to production-ready interfaces
+- Converting Figma designs into responsive, accessible UIs
 
-### Backend
+### Backend Development
 - Node.js, PHP (Laravel), Python, Go
-- RESTful API development
-- Authentication & role-based access control
-- Basic real-time systems (WebSocket)
+- RESTful API design
+- Authentication & role-based authorization
+- Basic real-time communication (WebSocket)
 
-### Database & Infrastructure
+### Data & Infrastructure
 - MySQL, PostgreSQL, MongoDB, Redis
 - Firebase, Supabase
-- Docker & containerized development
-- Git-based workflows
+- Docker-based development workflows
+- Git-centric collaboration
 
-### Tooling
-- VS Code, Git, Figma
-- Clean project structuring & maintainable code practices
+### Tools & Practices
+- Git, VS Code, Figma
+- Modular code structure
+- Maintainable and readable codebases
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### 🔹 Personal Platform  
+### Personal Platform  
 **https://rfkhrmwn.com**  
-A modern personal platform featuring smooth animations, structured frontend architecture, and responsive UI design.
+A personal platform focused on performance, structured frontend architecture, and maintainable UI components.
 
-**Highlights:**
-- Modern UI/UX with performance-focused implementation
-- Clean component structure
-- Optimized for scalability
-
----
-
-### 🔹 AI Portfolio Platform  
+### AI Portfolio Platform  
 **https://ai.rfkhrmwn.com**  
-An AI-based portfolio showcasing automation, API integration, and UX-focused design.
-
-**Highlights:**
-- API-driven architecture
-- Automation-focused features
-- User-centered interface design
+An AI-oriented portfolio showcasing automation, API integration, and user-centered system design.
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <a href="https://github.com/rfkhrmwnnn">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rfkhrmwnnn&show_icons=true&theme=dark&hide_border=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfkhrmwnnn&layout=compact&theme=dark&hide_border=true" />
-  </a>
-</p>
+## 🎯 Areas of Interest
+- Scalable web systems
+- API-first architectures
+- Frontend performance optimization
+- Clean and maintainable code
 
 ---
 
-## 🔗 Connect With Me
-
+## 🔗 Contact
 - GitHub: https://github.com/rfkhrmwnnn
 - Instagram: https://instagram.com/rfkhrmwnnnn
 - YouTube: https://youtube.com/stmikikmi
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rfkhrmwnnn&label=Profile+Views&style=flat" />
-</p>
