@@ -1,113 +1,110 @@
-<h1 align="center">rfkhrmwn</h1>
+<h1 align="center">rfkhrmwnnn</h1>
 
 <p align="center">
-Full-Stack Engineer focused on scalable platforms, system architecture, and automation-driven applications.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Scalable+System+Builder;Automation-Driven+Engineer;API-First+Architecture+Thinker;Designing+Software+That+Survives+Growth" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-API--First-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Approach-Automation%20Ready-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Architecture-API--First-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Approach-Automation%20Driven-0D1117?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧩 Problem Space
+## 🧠 Engineering Perspective
 
-Most platforms degrade over time because they were built for launch — not for scale.
+Most software is built to launch.
 
-Common failure points:
+Very little is built to survive growth.
 
-- tightly coupled frontend-backend logic  
-- role management chaos  
-- fragile API integrations  
-- manual operational workflows  
-- unstructured system growth  
+I design systems that remain:
 
----
+- stable under complexity  
+- maintainable as usage expands  
+- operable across integrations  
+- resilient over time  
 
-## ⚙️ What I Build
-
-I design and develop platforms that are:
-
-- structured to scale  
-- role-aware  
-- automation-capable  
-- API-centered  
-- performance-stable  
-- maintainable long-term  
-
-The goal is not feature velocity —  
-but operational resilience.
+Because scale exposes structural weakness.
 
 ---
 
-## 🏗️ Engineering Principles
+## 🏗️ What I Build
 
-- Architecture before speed  
-- Systems before scripts  
-- Stability before complexity  
-- Maintainability before trend adoption  
+Scalable Platforms  
+Automation-Ready Systems  
+Role-Based Environments  
+API-Centered Architectures  
+Performance-Safe Frontend  
+Maintainable Backend Systems  
+
+Not experimental builds — but operational systems.
+
+---
+
+## ⚙️ Engineering Philosophy
+
+Architecture > Speed  
+Systems > Features  
+Longevity > Trend  
+Clarity > Hype  
 
 ---
 
 ## 🛠️ Technology Environment
 
 ### Interface Layer
-`React` · `Next.js` · `Vue` · `Nuxt` · `TypeScript`
-
-Focused on consistent UI systems and performance-safe rendering.
-
----
+React · Next.js · Vue · Nuxt · TypeScript  
 
 ### Application Layer
-`Node.js` · `Laravel` · `Python` · `Go`
-
-Built with structured API logic and access control in mind.
-
----
+Node.js · Laravel · Python · Go  
 
 ### Data Layer
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`
-
-Each storage layer used with clear responsibility.
-
----
+PostgreSQL · MySQL · MongoDB · Redis  
 
 ### Infrastructure
-`Supabase` · `Firebase` · `Docker` · `Git Workflow`
-
-Enabling automation-ready deployment environments.
+Supabase · Firebase · Docker · Git Workflow  
 
 ---
 
 ## 🚀 Platforms
 
 ### Core Platform
-🔗 https://rfkhrmwn.com
-
-Structured personal platform focused on performance and UI system stability.
-
----
+🔗 https://rfkhrmwn.com  
 
 ### AI Platform
-🔗 https://ai.rfkhrmwn.com
-
-Automation-driven platform exploring AI integration and workflow orchestration.
+🔗 https://ai.rfkhrmwn.com  
 
 ---
 
-## 📊 Engineering Focus
+## 📊 GitHub Metrics
 
-- Scalable platform architecture  
-- API-first ecosystems  
-- Automation-driven systems  
-- Performance-safe frontend  
-- Maintainable backend environments  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rfkhrmwnnn&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rfkhrmwnnn&theme=github-dark&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## 🤝 Reach
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfkhrmwnnn&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+Scalable Architecture  
+Automation Infrastructure  
+API-First Ecosystems  
+Performance-Resilient UI  
+Maintainable Backend Logic  
+
+---
+
+## 🤝 Connect
 
 GitHub  
 https://github.com/rfkhrmwnnn  
