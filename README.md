@@ -1,83 +1,108 @@
 <h1 align="center">rfkhrmwnnn</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Scalable+System+Builder;Automation-Driven+Engineer;API-First+Architecture+Thinker;Designing+Software+That+Survives+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=950&lines=Membangun+Sistem+yang+Bertahan;Software+Sebagai+Fondasi+Pertumbuhan;Arsitektur+untuk+Masa+Depan;Teknologi+Sebagai+Enabler+Skala" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Architecture-API--First-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Approach-Automation%20Driven-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vision-Long%20Term%20Systems-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mindset-Scalable%20Architecture-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Direction-Automation%20Future-0D1117?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🧠 Engineering Perspective
+## 🌍 Visi
 
-Most software is built to launch.
+Teknologi bukan sekadar alat.
 
-Very little is built to survive growth.
+Ia adalah fondasi bagi pertumbuhan.
 
-I design systems that remain:
+Namun banyak sistem dibangun untuk hari ini —  
+bukan untuk masa depan.
 
-- stable under complexity  
-- maintainable as usage expands  
-- operable across integrations  
-- resilient over time  
+Saat skala datang, sistem mulai:
 
-Because scale exposes structural weakness.
+- melambat  
+- rapuh  
+- mahal untuk diubah  
+- sulit diintegrasikan  
 
----
+Masalahnya bukan pada teknologi.
 
-## 🏗️ What I Build
-
-Scalable Platforms  
-Automation-Ready Systems  
-Role-Based Environments  
-API-Centered Architectures  
-Performance-Safe Frontend  
-Maintainable Backend Systems  
-
-Not experimental builds — but operational systems.
+Masalahnya pada arah.
 
 ---
 
-## ⚙️ Engineering Philosophy
+## 🧭 Arah yang Saya Bangun
 
-Architecture > Speed  
-Systems > Features  
-Longevity > Trend  
-Clarity > Hype  
+Saya berfokus pada pembangunan sistem yang:
+
+- siap bertumbuh sejak awal  
+- mampu beradaptasi terhadap perubahan  
+- mendukung operasional otomatis  
+- menjaga stabilitas dalam kompleksitas  
+- tetap relevan dalam jangka panjang  
+
+Tujuannya bukan sekadar membuat produk berjalan.
+
+Tetapi memastikan produk tetap berjalan saat dunia berubah.
 
 ---
 
-## 🛠️ Technology Environment
+## 💡 Cara Pandang
 
-### Interface Layer
+Software bukan hanya aplikasi.
+
+Software adalah:
+
+➡️ Infrastruktur pertumbuhan  
+➡️ Mesin operasional  
+➡️ Fondasi masa depan  
+
+Karena itu prioritasnya:
+
+Keberlanjutan > Kecepatan  
+Struktur > Fitur  
+Stabilitas > Tren  
+
+---
+
+## 🛠️ Ekosistem Teknologi
+
+### Interface
 React · Next.js · Vue · Nuxt · TypeScript  
 
-### Application Layer
+### Backend
 Node.js · Laravel · Python · Go  
 
-### Data Layer
+### Data
 PostgreSQL · MySQL · MongoDB · Redis  
 
-### Infrastructure
+### Infrastruktur
 Supabase · Firebase · Docker · Git Workflow  
 
+Teknologi digunakan untuk membangun sistem yang mampu berkembang.
+
 ---
 
-## 🚀 Platforms
+## 🚀 Platform
 
-### Core Platform
+### Platform Utama
 🔗 https://rfkhrmwn.com  
 
-### AI Platform
-🔗 https://ai.rfkhrmwn.com  
+Eksplorasi arsitektur untuk stabilitas jangka panjang.
 
 ---
 
-## 📊 GitHub Metrics
+### Platform AI
+🔗 https://ai.rfkhrmwn.com  
+
+Eksperimen otomasi berbasis AI untuk masa depan operasional digital.
+
+---
+
+## 📊 Aktivitas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rfkhrmwnnn&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
@@ -86,7 +111,7 @@ Supabase · Firebase · Docker · Git Workflow
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Kontribusi
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfkhrmwnnn&theme=github-dark&hide_border=true"/>
@@ -94,17 +119,17 @@ Supabase · Firebase · Docker · Git Workflow
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Fokus Saat Ini
 
-Scalable Architecture  
-Automation Infrastructure  
-API-First Ecosystems  
-Performance-Resilient UI  
-Maintainable Backend Logic  
+- Sistem Berkelanjutan  
+- Arsitektur Skalabel  
+- Otomasi Operasional  
+- Adaptasi Masa Depan  
+- Stabilitas Jangka Panjang  
 
 ---
 
-## 🤝 Connect
+## 🤝 Terhubung
 
 GitHub  
 https://github.com/rfkhrmwnnn  
