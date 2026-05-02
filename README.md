@@ -1,103 +1,123 @@
-## 🚀 Project Showcase
+### 🚀 Project Showcase (High Impact)
 
-### 🧠 AI WhatsApp Assistant for UMKM
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI WhatsApp Assistant (UMKM)
 
 **Problem**
-Banyak UMKM kehilangan waktu & pelanggan karena respon manual lambat.
+UMKM lambat respon → kehilangan customer.
 
 **Solution**
-Membangun AI WhatsApp bot berbasis LLM untuk:
+AI bot WhatsApp untuk auto-handle:
 
-* auto-reply customer
-* handle FAQ & order flow
-* integrasi multi-platform
+* customer inquiry
+* order flow
+* FAQ system
 
 **Impact**
 
-* ⏱️ Response time turun dari ±10 menit → < 5 detik
-* 📈 Potensi peningkatan closing rate
-* 🔄 Operasional jadi 24/7 tanpa tambahan SDM
+* ⚡ Response < 5 detik
+* 🔄 Operasional 24/7
+* 📈 Efisiensi layanan meningkat
 
-**Tech Stack**
-Node.js · Express · OpenAI API · WhatsApp Gateway
+**Stack**
+Node.js · OpenAI · WA Gateway
 
-🔗 Demo: https://ai.rfkhrmwn.com
-🔗 Repo: https://github.com/rfkhrmwnnn
+🔗 [Live Demo](https://ai.rfkhrmwn.com)
+🔗 [Repository](https://github.com/rfkhrmwnnn)
 
----
+</td>
 
-### 🍔 Food Ordering Web (Frontend-First Architecture)
+<td width="50%" valign="top">
+
+### 🍔 Food Ordering Web App
 
 **Problem**
-Platform food delivery kompleks & mahal untuk dibangun dari nol.
+Platform food delivery mahal & kompleks.
 
 **Solution**
-Membangun UI/UX high-end ala GoFood/ShopeeFood dengan:
+Frontend scalable ala GoFood:
 
-* modular component system
-* scalable frontend structure
-* mobile-first experience
+* modular UI system
+* fast & responsive
+* production-ready structure
 
 **Impact**
 
-* ⚡ Load cepat & UX premium
-* 🧩 Mudah dikembangkan ke fullstack
-* 🎯 Siap jadi MVP production
+* ⚡ High performance UI
+* 📱 Mobile-first UX
+* 🚀 MVP ready
 
-**Tech Stack**
-React (Vite) · TailwindCSS · State Management
+**Stack**
+React · Tailwind · Vite
 
-🔗 Demo: https://rfkhrmwn.com
-🔗 Repo: https://github.com/rfkhrmwnnn
+🔗 [Live Demo](https://rfkhrmwn.com)
+🔗 [Repository](https://github.com/rfkhrmwnnn)
 
----
+</td>
+</tr>
 
-### 🖼️ AI Image Enhancer (Remini-style Web App)
+<tr>
+<td width="50%" valign="top">
+
+### 🖼️ AI Image Enhancer
 
 **Problem**
-Kualitas foto user sering rendah dan tidak usable untuk kebutuhan digital.
+Foto user kualitas rendah.
 
 **Solution**
-Web app untuk enhance image menggunakan AI API:
+Web AI enhancer:
 
-* upload → process → download
-* UI responsif & cepat
-* optimasi UX untuk conversion
+* upload → enhance → download
+* fast processing
+* clean UX
 
 **Impact**
 
-* 📸 Kualitas gambar meningkat signifikan
-* 🚀 Flow simpel → high usability
-* 💡 Bisa dikembangkan ke SaaS model
+* 📸 Image quality boosted
+* 🎯 Simple conversion flow
+* 💡 SaaS potential
 
-**Tech Stack**
-HTML · JavaScript · AI API Integration
+**Stack**
+JS · AI API
 
-🔗 Demo: https://rfkhrmwn.com
-🔗 Repo: https://github.com/rfkhrmwnnn
+🔗 [Live Demo](https://rfkhrmwn.com)
+🔗 [Repository](https://github.com/rfkhrmwnnn)
 
----
+</td>
 
-### 🎧 Spotify Downloader Web
+<td width="50%" valign="top">
+
+### 🎧 Spotify Downloader
 
 **Problem**
-User ingin akses audio tanpa batasan platform.
+User butuh akses audio fleksibel.
 
 **Solution**
-Web-based downloader:
+Web downloader:
 
-* convert Spotify → MP3
-* UX simpel seperti YouTube downloader
-* fast processing via API
+* Spotify → MP3
+* simple UI
+* fast API
 
 **Impact**
 
-* ⚡ Proses cepat & user-friendly
-* 📥 High engagement potential
-* 🔁 Repeat usage tinggi
+* ⚡ Fast processing
+* 🔁 High reuse potential
+* 📥 Practical tool
 
-**Tech Stack**
-JavaScript · API Integration
+**Stack**
+JavaScript · API
 
-🔗 Demo: https://rfkhrmwn.com
-🔗 Repo: https://github.com/rfkhrmwnnn
+🔗 [Live Demo](https://rfkhrmwn.com)
+🔗 [Repository](https://github.com/rfkhrmwnnn)
+
+</td>
+</tr>
+</table>
+
+</div>
