@@ -1,141 +1,103 @@
-<h1 align="center">rfkhrmwnnn</h1>
+## 🚀 Project Showcase
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=950&lines=Membangun+Sistem+yang+Bertahan;Software+Sebagai+Fondasi+Pertumbuhan;Arsitektur+untuk+Masa+Depan;Teknologi+Sebagai+Enabler+Skala" />
-</p>
+### 🧠 AI WhatsApp Assistant for UMKM
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Vision-Long%20Term%20Systems-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Scalable%20Architecture-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Direction-Automation%20Future-0D1117?style=for-the-badge"/>
-</p>
+**Problem**
+Banyak UMKM kehilangan waktu & pelanggan karena respon manual lambat.
 
----
+**Solution**
+Membangun AI WhatsApp bot berbasis LLM untuk:
 
-## 🌍 Visi
+* auto-reply customer
+* handle FAQ & order flow
+* integrasi multi-platform
 
-Teknologi bukan sekadar alat.
+**Impact**
 
-Ia adalah fondasi bagi pertumbuhan.
+* ⏱️ Response time turun dari ±10 menit → < 5 detik
+* 📈 Potensi peningkatan closing rate
+* 🔄 Operasional jadi 24/7 tanpa tambahan SDM
 
-Namun banyak sistem dibangun untuk hari ini —  
-bukan untuk masa depan.
+**Tech Stack**
+Node.js · Express · OpenAI API · WhatsApp Gateway
 
-Saat skala datang, sistem mulai:
-
-- melambat  
-- rapuh  
-- mahal untuk diubah  
-- sulit diintegrasikan  
-
-Masalahnya bukan pada teknologi.
-
-Masalahnya pada arah.
+🔗 Demo: https://ai.rfkhrmwn.com
+🔗 Repo: https://github.com/rfkhrmwnnn
 
 ---
 
-## 🧭 Arah yang Saya Bangun
+### 🍔 Food Ordering Web (Frontend-First Architecture)
 
-Saya berfokus pada pembangunan sistem yang:
+**Problem**
+Platform food delivery kompleks & mahal untuk dibangun dari nol.
 
-- siap bertumbuh sejak awal  
-- mampu beradaptasi terhadap perubahan  
-- mendukung operasional otomatis  
-- menjaga stabilitas dalam kompleksitas  
-- tetap relevan dalam jangka panjang  
+**Solution**
+Membangun UI/UX high-end ala GoFood/ShopeeFood dengan:
 
-Tujuannya bukan sekadar membuat produk berjalan.
+* modular component system
+* scalable frontend structure
+* mobile-first experience
 
-Tetapi memastikan produk tetap berjalan saat dunia berubah.
+**Impact**
 
----
+* ⚡ Load cepat & UX premium
+* 🧩 Mudah dikembangkan ke fullstack
+* 🎯 Siap jadi MVP production
 
-## 💡 Cara Pandang
+**Tech Stack**
+React (Vite) · TailwindCSS · State Management
 
-Software bukan hanya aplikasi.
-
-Software adalah:
-
-➡️ Infrastruktur pertumbuhan  
-➡️ Mesin operasional  
-➡️ Fondasi masa depan  
-
-Karena itu prioritasnya:
-
-Keberlanjutan > Kecepatan  
-Struktur > Fitur  
-Stabilitas > Tren  
+🔗 Demo: https://rfkhrmwn.com
+🔗 Repo: https://github.com/rfkhrmwnnn
 
 ---
 
-## 🛠️ Ekosistem Teknologi
+### 🖼️ AI Image Enhancer (Remini-style Web App)
 
-### Interface
-React · Next.js · Vue · Nuxt · TypeScript  
+**Problem**
+Kualitas foto user sering rendah dan tidak usable untuk kebutuhan digital.
 
-### Backend
-Node.js · Laravel · Python · Go  
+**Solution**
+Web app untuk enhance image menggunakan AI API:
 
-### Data
-PostgreSQL · MySQL · MongoDB · Redis  
+* upload → process → download
+* UI responsif & cepat
+* optimasi UX untuk conversion
 
-### Infrastruktur
-Supabase · Firebase · Docker · Git Workflow  
+**Impact**
 
-Teknologi digunakan untuk membangun sistem yang mampu berkembang.
+* 📸 Kualitas gambar meningkat signifikan
+* 🚀 Flow simpel → high usability
+* 💡 Bisa dikembangkan ke SaaS model
 
----
+**Tech Stack**
+HTML · JavaScript · AI API Integration
 
-## 🚀 Platform
-
-### Platform Utama
-🔗 https://rfkhrmwn.com  
-
-Eksplorasi arsitektur untuk stabilitas jangka panjang.
-
----
-
-### Platform AI
-🔗 https://ai.rfkhrmwn.com  
-
-Eksperimen otomasi berbasis AI untuk masa depan operasional digital.
+🔗 Demo: https://rfkhrmwn.com
+🔗 Repo: https://github.com/rfkhrmwnnn
 
 ---
 
-## 📊 Aktivitas GitHub
+### 🎧 Spotify Downloader Web
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rfkhrmwnnn&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rfkhrmwnnn&theme=github-dark&hide_border=true" height="150"/>
-</p>
+**Problem**
+User ingin akses audio tanpa batasan platform.
 
----
+**Solution**
+Web-based downloader:
 
-## 📈 Kontribusi
+* convert Spotify → MP3
+* UX simpel seperti YouTube downloader
+* fast processing via API
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rfkhrmwnnn&theme=github-dark&hide_border=true"/>
-</p>
+**Impact**
 
----
+* ⚡ Proses cepat & user-friendly
+* 📥 High engagement potential
+* 🔁 Repeat usage tinggi
 
-## 🎯 Fokus Saat Ini
+**Tech Stack**
+JavaScript · API Integration
 
-- Sistem Berkelanjutan  
-- Arsitektur Skalabel  
-- Otomasi Operasional  
-- Adaptasi Masa Depan  
-- Stabilitas Jangka Panjang  
-
----
-
-## 🤝 Terhubung
-
-GitHub  
-https://github.com/rfkhrmwnnn  
-
-Instagram  
-https://instagram.com/rfkhrmwnnnn  
-
-YouTube  
-https://youtube.com/stmikikmi
+🔗 Demo: https://rfkhrmwn.com
+🔗 Repo: https://github.com/rfkhrmwnnn
