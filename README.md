@@ -110,28 +110,46 @@ The goal is not simply to ship more code, but to build software that has a clear
 
 ---
 
+---
+
 📊 GitHub
 
 <div align="center"><a href="https://github.com/rfkhrmwnnn">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=rfkhrmwnnn&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-    alt="Rifki's GitHub statistics"
+    src="https://img.shields.io/github/followers/rfkhrmwnnn?label=Followers&style=for-the-badge&logo=github"
+    alt="GitHub followers"
   />
-</a><a href="https://github.com/rfkhrmwnnn">
+</a><a href="https://github.com/rfkhrmwnnn?tab=repositories">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfkhrmwnnn&layout=compact&hide_border=true&langs_count=8"
-    alt="Rifki's top languages"
+    src="https://img.shields.io/github/stars/rfkhrmwnnn?affiliations=OWNER&style=for-the-badge&logo=github"
+    alt="GitHub stars"
   />
+</a><a href="https://github.com/rfkhrmwnnn?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Public%20Repositories-Explore-181717?style=for-the-badge&logo=github"
+    alt="Public repositories"
+  />
+</a></div><div align="center"><br><a href="https://github.com/rfkhrmwnnn?tab=repositories">
+  <strong>Explore my repositories →</strong>
+</a>  ·  
+
+<a href="https://github.com/rfkhrmwnnn">
+  <strong>View my GitHub profile →</strong>
 </a></div>---
 
 📫 Connect
 
-- 🌐 Website: "rfkhrmwn.com" (https://rfkhrmwn.com)
-- 💻 GitHub: "@rfkhrmwnnn" (https://github.com/rfkhrmwnnn)
-
----
+<div align="center"><a href="https://rfkhrmwn.com">
+  <img
+    src="https://img.shields.io/badge/Website-rfkhrmwn.com-181717?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Website"
+  />
+</a><a href="https://github.com/rfkhrmwnnn">
+  <img
+    src="https://img.shields.io/badge/GitHub-@rfkhrmwnnn-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a></div>---
 
 <div align="center">Build useful things. Keep learning. Ship deliberately. 🚀
 
