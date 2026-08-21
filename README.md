@@ -1,123 +1,140 @@
-### 🚀 Project Showcase (High Impact)
+<div align="center">Rifki Hermawan
 
-<div align="center">
+Full-Stack Developer · AI Builder · Software Engineering
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p>
+  <a href="https://github.com/rfkhrmwnnn">
+    <img src="https://img.shields.io/badge/GitHub-rfkhrmwnnn-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://rfkhrmwn.com">
+    <img src="https://img.shields.io/badge/Website-rfkhrmwn.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+</p><p>
+  <strong>Building practical software, AI-powered products, and modern web experiences.</strong>
+</p></div>---
 
-### 🧠 AI WhatsApp Assistant (UMKM)
+👋 About
 
-**Problem**
-UMKM lambat respon → kehilangan customer.
+I build software with a focus on useful products, maintainable architecture, and practical user experience.
 
-**Solution**
-AI bot WhatsApp untuk auto-handle:
+My work spans full-stack web development, AI integrations, automation, conversational applications, and modern frontend systems. I prefer turning real problems into software that is simple to use, reliable to operate, and structured for future development.
 
-* customer inquiry
-* order flow
-* FAQ system
+What I focus on
 
-**Impact**
+- 🧩 Full-stack web application development
+- 🤖 AI, LLM, and conversational applications
+- ⚡ Modern frontend architecture and responsive UX
+- 🔌 API integration and workflow automation
+- 🏗️ Scalable application architecture
+- 🔐 Authentication, authorization, and application security
+- 🚀 Deployment, optimization, and production readiness
 
-* ⚡ Response < 5 detik
-* 🔄 Operasional 24/7
-* 📈 Efisiensi layanan meningkat
+---
 
-**Stack**
-Node.js · OpenAI · WA Gateway
+🛠️ Technology Stack
 
-🔗 [Live Demo](https://ai.rfkhrmwn.com)
-🔗 [Repository](https://github.com/rfkhrmwnnn)
+Frontend
 
-</td>
+"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+"Next.js" (https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+"Vue.js" (https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<td width="50%" valign="top">
+Backend & Data
 
-### 🍔 Food Ordering Web App
+"Node.js" (https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+"Laravel" (https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+"MongoDB" (https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+"Redis" (https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Problem**
-Platform food delivery mahal & kompleks.
+AI, Cloud & Tooling
 
-**Solution**
-Frontend scalable ala GoFood:
+"OpenAI" (https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+"Vercel" (https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+"GitHub Actions" (https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-* modular UI system
-* fast & responsive
-* production-ready structure
+---
 
-**Impact**
+🚀 Selected Work
 
-* ⚡ High performance UI
-* 📱 Mobile-first UX
-* 🚀 MVP ready
+Project| Description| Focus
+RivoraMD| Multi-platform conversational bot ecosystem focused on useful automation and interactive features.| WhatsApp · Telegram · Discord · Node.js
+AI WhatsApp Assistant| AI-assisted WhatsApp workflow for customer inquiries, FAQs, and order-related interactions.| AI · LLM · WhatsApp · Automation
+Food Ordering Web App| Responsive food-ordering interface designed around modular components and mobile-first UX.| React · Tailwind · Vite
+AI Image Enhancer| Web-based image enhancement workflow built around upload, processing, and download experiences.| JavaScript · AI API
 
-**Stack**
-React · Tailwind · Vite
+«More projects are available across my public repositories and profile.»
 
-🔗 [Live Demo](https://rfkhrmwn.com)
-🔗 [Repository](https://github.com/rfkhrmwnnn)
+---
 
-</td>
-</tr>
+🧠 Engineering Principles
 
-<tr>
-<td width="50%" valign="top">
+I approach development around a few practical principles:
 
-### 🖼️ AI Image Enhancer
+1. Solve the actual problem first.
+   Technology is a means, not the product.
 
-**Problem**
-Foto user kualitas rendah.
+2. Prefer maintainable systems over clever code.
+   Readability and predictable behavior matter.
 
-**Solution**
-Web AI enhancer:
+3. Design for real users.
+   Performance, accessibility, responsive UX, and clear flows are part of engineering quality.
 
-* upload → enhance → download
-* fast processing
-* clean UX
+4. Automate repetitive work.
+   Good automation reduces operational cost and human error.
 
-**Impact**
+5. Build incrementally.
+   A useful, observable MVP is more valuable than an over-engineered prototype.
 
-* 📸 Image quality boosted
-* 🎯 Simple conversion flow
-* 💡 SaaS potential
+6. Treat security as a baseline.
+   Authentication, authorization, secrets, validation, and safe integrations should be considered from the beginning.
 
-**Stack**
-JS · AI API
+---
 
-🔗 [Live Demo](https://rfkhrmwn.com)
-🔗 [Repository](https://github.com/rfkhrmwnnn)
+📌 Current Direction
 
-</td>
+I'm currently interested in building products at the intersection of:
 
-<td width="50%" valign="top">
+- AI × Web Applications
+- Conversational AI × Automation
+- Full-Stack Engineering × Product Development
+- Modern UX × Scalable Architecture
 
-### 🎧 Spotify Downloader
+The goal is not simply to ship more code, but to build software that has a clear purpose and can survive beyond the prototype stage.
 
-**Problem**
-User butuh akses audio fleksibel.
+---
 
-**Solution**
-Web downloader:
+📊 GitHub
 
-* Spotify → MP3
-* simple UI
-* fast API
+<div align="center"><a href="https://github.com/rfkhrmwnnn">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=rfkhrmwnnn&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    alt="Rifki's GitHub statistics"
+  />
+</a><a href="https://github.com/rfkhrmwnnn">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfkhrmwnnn&layout=compact&hide_border=true&langs_count=8"
+    alt="Rifki's top languages"
+  />
+</a></div>---
 
-**Impact**
+📫 Connect
 
-* ⚡ Fast processing
-* 🔁 High reuse potential
-* 📥 Practical tool
+- 🌐 Website: "rfkhrmwn.com" (https://rfkhrmwn.com)
+- 💻 GitHub: "@rfkhrmwnnn" (https://github.com/rfkhrmwnnn)
 
-**Stack**
-JavaScript · API
+---
 
-🔗 [Live Demo](https://rfkhrmwn.com)
-🔗 [Repository](https://github.com/rfkhrmwnnn)
+<div align="center">Build useful things. Keep learning. Ship deliberately. 🚀
 
-</td>
-</tr>
-</table>
+<sub>Profile README maintained by Rifki Hermawan.</sub>
 
 </div>
